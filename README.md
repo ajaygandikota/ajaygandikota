@@ -5,7 +5,7 @@
 </div>
 
 ---
-# Cybersecurity Stack
+# Technology Stack
 
 ## Security Platforms
 
