@@ -133,33 +133,13 @@ Containment --> Remediation
 * Automated vulnerability detection
 * Security analytics
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ajaygandikota&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaygandikota&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📡 Connect With Me
 
 Email: **[ajaygandikota773@gmail.com](mailto:ajaygandikota773@gmail.com)**
 LinkedIn: **[https://linkedin.com/in/gandikota-ajay-lk](https://linkedin.com/in/gandikota-ajay-lk)**
 
----
-
-# ⚡ Cybersecurity Philosophy
-
-> Automate Defense
-> Correlate Intelligence
-> Detect Threats Early
-> Respond Instantly
 
 
 
