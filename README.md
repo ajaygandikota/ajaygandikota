@@ -1,5 +1,5 @@
 <div align="center">
-### AJAY GANDIKOTA
+
 ### Senior System Engineer — Cybersecurity
 
 SOC Architecture • DevSecOps • Threat Intelligence • Security Automation
