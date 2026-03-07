@@ -6,9 +6,9 @@
 
 ---
 
-# 🚀 Cybersecurity Stack
+# Cybersecurity Stack
 
-## 🛡 Security Platforms
+## Security Platforms
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,aws,azure,docker,kubernetes,git,github,nginx,postgres,redis" />
@@ -16,7 +16,7 @@
 
 ---
 
-## ⚙️ Security Automation & Scripting
+## Security Automation & Scripting
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,bash,powershell,ansible,flask,fastapi" />
@@ -24,7 +24,7 @@
 
 ---
 
-## ☁️ Cloud & Infrastructure
+## Cloud & Infrastructure
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,ubuntu,debian" />
@@ -40,7 +40,7 @@
 
 ---
 
-# 🧠 DevSecOps Security Pipeline
+# DevSecOps Security Pipeline
 
 ```mermaid
 flowchart LR
@@ -59,7 +59,7 @@ RuntimeSecurity --> Monitoring
 
 ---
 
-# 🛡 SOC Security Architecture
+# SOC Security Architecture
 
 ```mermaid
 flowchart LR
@@ -110,7 +110,7 @@ Containment --> Remediation
 
 ---
 
-# 🔥 Cybersecurity Projects
+# Cybersecurity Projects
 
 ## Cyber Infrastructure Management Platform
 
@@ -127,7 +127,7 @@ Containment --> Remediation
 
 ## Enterprise NAC Deployment
 
-* PacketFence NAC
+* NAC
 * 35,000+ endpoints
 * Active-Active Architecture
 * Scalable to 100k endpoints
