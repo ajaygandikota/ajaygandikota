@@ -6,13 +6,13 @@
 
 # Technology Stack
 
-## Security Platforms
+# Security Platforms
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,aws,azure,docker,kubernetes,git,github,nginx,postgres,redis" />
 </p>
 
-## Security Automation & Scripting
+# Security Automation & Scripting
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,bash,powershell,ansible,flask,fastapi" />
