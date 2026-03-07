@@ -6,25 +6,15 @@
 
 # Technology Stack
 
-# Security Platforms
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,aws,azure,docker,kubernetes,git,github,nginx,postgres,redis" />
 </p>
-
-# Security Automation & Scripting
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,bash,powershell,ansible,flask,fastapi" />
 </p>
-
-## Cloud & Infrastructure
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,ubuntu,debian" />
 </p>
-
-## DevSecOps Toolchain
 <p align="center">
 <img src="https://skillicons.dev/icons?i=githubactions,git,docker,kubernetes,terraform,ansible,prometheus,grafana" />
 </p>
