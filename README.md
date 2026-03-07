@@ -29,8 +29,6 @@
 <img src="https://skillicons.dev/icons?i=githubactions,git,docker,kubernetes,terraform,ansible,prometheus,grafana" />
 </p>
 
----
-
 # DevSecOps Security Pipeline
 
 ```mermaid
@@ -47,9 +45,6 @@ Deploy --> Kubernetes
 Kubernetes --> RuntimeSecurity
 RuntimeSecurity --> Monitoring
 ```
-
----
-
 # SOC Security Architecture
 
 ```mermaid
@@ -68,9 +63,6 @@ IncidentResponse --> ThreatIntel
 ThreatIntel --> DetectionRules
 DetectionRules --> SIEM
 ```
-
----
-
 # 🛰 Threat Intelligence Pipeline
 
 ```mermaid
@@ -83,9 +75,6 @@ Detection --> SOC
 SOC --> Containment
 Containment --> Remediation
 ```
-
----
-
 # 🔐 Cybersecurity Tools
 
 | Domain                   | Tools                                |
@@ -99,7 +88,6 @@ Containment --> Remediation
 | DevSecOps Security       | Trivy, Semgrep, CodeQL               |
 | Monitoring               | Prometheus, Grafana                  |
 
----
 
 # Cybersecurity Projects
 
@@ -114,7 +102,6 @@ Containment --> Remediation
 * Threat Intelligence
 * Vulnerability Scanner
 
----
 
 ## Enterprise NAC Deployment
 
@@ -123,7 +110,6 @@ Containment --> Remediation
 * Active-Active Architecture
 * Scalable to 100k endpoints
 
----
 
 ## Threat Intelligence & Vulnerability Platform
 
