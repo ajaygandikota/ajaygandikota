@@ -1,7 +1,5 @@
 <div align="center">
-### Ajay Gandikota
-### Senior System Engineer — Cybersecurity
-
+### Ajay Gandikota 
 SOC Architecture • DevSecOps • Threat Intelligence • Security Automation
 
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=00FF9C&center=true&vCenter=true&width=900&lines=Senior+System+Engineer+Cybersecurity;Cybersecurity+Automation+Engineer;Threat+Detection+%26+Incident+Response;Cloud+Security+AWS+Azure+GCP;DevSecOps+Security+Engineer;SIEM+SOAR+UEBA+Automation" />
