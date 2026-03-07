@@ -4,7 +4,6 @@
 
 </div>
 
----
 # Technology Stack
 
 ## Security Platforms
