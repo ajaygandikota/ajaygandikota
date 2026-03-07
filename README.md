@@ -25,7 +25,7 @@
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,ubuntu,debian" />
 </p>
 
-## 🧠 DevSecOps Toolchain
+## DevSecOps Toolchain
 <p align="center">
 <img src="https://skillicons.dev/icons?i=githubactions,git,docker,kubernetes,terraform,ansible,prometheus,grafana" />
 </p>
