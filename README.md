@@ -20,20 +20,33 @@
 </p>
 
 # DevSecOps Security Pipeline
-
 ```mermaid
 flowchart LR
-Developer --> Code
-Code --> Git
-Git --> CI
-CI --> SAST
-SAST --> DependencyScan
-DependencyScan --> ContainerScan
-ContainerScan --> ArtifactRepo
-ArtifactRepo --> Deploy
-Deploy --> Kubernetes
-Kubernetes --> RuntimeSecurity
-RuntimeSecurity --> Monitoring
+
+Developer[Developer] --> Code[Code]
+Code --> Git[Git Repository]
+Git --> CI[CI Pipeline]
+CI --> SAST[SAST Scan]
+SAST --> DependencyScan[Dependency Scan]
+DependencyScan --> ContainerScan[Container Scan]
+ContainerScan --> ArtifactRepo[Artifact Repository]
+ArtifactRepo --> Deploy[Deploy]
+Deploy --> Kubernetes[Kubernetes Cluster]
+Kubernetes --> RuntimeSecurity[Runtime Security]
+RuntimeSecurity --> Monitoring[Monitoring & Alerts]
+
+style Developer fill:#ff9f43,stroke:#333,stroke-width:2px,color:#fff
+style Code fill:#54a0ff,stroke:#333,stroke-width:2px,color:#fff
+style Git fill:#10ac84,stroke:#333,stroke-width:2px,color:#fff
+style CI fill:#5f27cd,stroke:#333,stroke-width:2px,color:#fff
+style SAST fill:#ee5253,stroke:#333,stroke-width:2px,color:#fff
+style DependencyScan fill:#f368e0,stroke:#333,stroke-width:2px,color:#fff
+style ContainerScan fill:#ff6b6b,stroke:#333,stroke-width:2px,color:#fff
+style ArtifactRepo fill:#00d2d3,stroke:#333,stroke-width:2px,color:#fff
+style Deploy fill:#1dd1a1,stroke:#333,stroke-width:2px,color:#fff
+style Kubernetes fill:#2e86de,stroke:#333,stroke-width:2px,color:#fff
+style RuntimeSecurity fill:#ff9ff3,stroke:#333,stroke-width:2px,color:#fff
+style Monitoring fill:#576574,stroke:#333,stroke-width:2px,color:#fff
 ```
 # SOC Security Architecture
 
