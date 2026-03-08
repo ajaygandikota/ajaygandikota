@@ -138,7 +138,6 @@ Containment --> Remediation
 
 # 📡 Connect With Me
 
-Email: **[ajaygandikota50@gmail.com](mailto:ajaygandikota50@gmail.com)**
 LinkedIn: **[https://linkedin.com/in/gandikota-ajay-lk](https://linkedin.com/in/gandikota-ajay-lk)**
 
 ## ☕ Support My Work
