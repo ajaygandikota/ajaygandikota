@@ -52,19 +52,34 @@ style Monitoring fill:#576574,stroke:#333,stroke-width:2px,color:#fff
 
 ```mermaid
 flowchart LR
-Endpoints --> Logs
-Servers --> Logs
-Cloud --> Logs
-Applications --> Logs
 
-Logs --> SIEM
-SIEM --> UEBA
-UEBA --> SOAR
+Endpoints[Endpoints] --> Logs[Log Collection]
+Servers[Servers] --> Logs
+Cloud[Cloud Infrastructure] --> Logs
+Applications[Applications] --> Logs
 
-SOAR --> IncidentResponse
-IncidentResponse --> ThreatIntel
-ThreatIntel --> DetectionRules
+Logs --> SIEM[SIEM Platform]
+SIEM --> UEBA[UEBA Analytics]
+UEBA --> SOAR[SOAR Automation]
+
+SOAR --> IncidentResponse[Incident Response]
+IncidentResponse --> ThreatIntel[Threat Intelligence]
+ThreatIntel --> DetectionRules[Detection Rules]
 DetectionRules --> SIEM
+
+style Endpoints fill:#ff9f43,stroke:#333,stroke-width:2px,color:#fff
+style Servers fill:#54a0ff,stroke:#333,stroke-width:2px,color:#fff
+style Cloud fill:#5f27cd,stroke:#333,stroke-width:2px,color:#fff
+style Applications fill:#10ac84,stroke:#333,stroke-width:2px,color:#fff
+
+style Logs fill:#00d2d3,stroke:#333,stroke-width:2px,color:#fff
+style SIEM fill:#2e86de,stroke:#333,stroke-width:2px,color:#fff
+style UEBA fill:#ff6b6b,stroke:#333,stroke-width:2px,color:#fff
+style SOAR fill:#f368e0,stroke:#333,stroke-width:2px,color:#fff
+
+style IncidentResponse fill:#ee5253,stroke:#333,stroke-width:2px,color:#fff
+style ThreatIntel fill:#1dd1a1,stroke:#333,stroke-width:2px,color:#fff
+style DetectionRules fill:#576574,stroke:#333,stroke-width:2px,color:#fff
 ```
 # 🛰 Threat Intelligence Pipeline
 
