@@ -136,14 +136,16 @@ Containment --> Remediation
 * Automated vulnerability detection
 * Security analytics
 
-
-
 # 📡 Connect With Me
 
-Email: **[ajaygandikota773@gmail.com](mailto:ajaygandikota773@gmail.com)**
+Email: **[ajaygandikota50@gmail.com](mailto:ajaygandikota50@gmail.com)**
 LinkedIn: **[https://linkedin.com/in/gandikota-ajay-lk](https://linkedin.com/in/gandikota-ajay-lk)**
 
+## ☕ Support My Work
 
+If you like my cybersecurity tools, open-source work, or research, consider supporting me.
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/ajaygandikota)
 
 
 
