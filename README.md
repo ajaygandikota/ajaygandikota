@@ -142,9 +142,13 @@ LinkedIn: **[https://linkedin.com/in/gandikota-ajay-lk](https://linkedin.com/in/
 
 ## ☕ Support My Work
 
-If you like my cybersecurity tools, open-source work, or research, consider supporting me.
+If you find my **Cybersecurity Tools, DevSecOps Projects, and Research** useful, you can support my work.
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/ajaygandikota)
+<p align="center">
+  <a href="https://www.buymeacoffee.com/ajaygandikota">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" />
+  </a>
+</p>
 
 
 
