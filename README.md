@@ -81,7 +81,7 @@ style IncidentResponse fill:#ee5253,stroke:#333,stroke-width:2px,color:#fff
 style ThreatIntel fill:#1dd1a1,stroke:#333,stroke-width:2px,color:#fff
 style DetectionRules fill:#576574,stroke:#333,stroke-width:2px,color:#fff
 ```
-# 🛰 Threat Intelligence Pipeline
+# Threat Intelligence Pipeline
 
 ```mermaid
 flowchart LR
@@ -93,7 +93,7 @@ Detection --> SOC
 SOC --> Containment
 Containment --> Remediation
 ```
-# 🔐 Cybersecurity Tools
+# Cybersecurity Tools
 
 | Domain                   | Tools                                |
 | ------------------------ | ------------------------------------ |
@@ -136,7 +136,7 @@ Containment --> Remediation
 * Automated vulnerability detection
 * Security analytics
 
-# 📡 Connect With Me
+# Connect With Me
 
 LinkedIn: **[https://linkedin.com/in/gandikota-ajay-lk](https://linkedin.com/in/gandikota-ajay-lk)**
 
